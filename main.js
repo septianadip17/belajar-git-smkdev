@@ -1,4 +1,2 @@
-hello
-world
-test
-smkdev
+sky
+ocean
